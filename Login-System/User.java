@@ -20,5 +20,5 @@ public class User {
     }
     public void setPass(String newPassword){
         this.password = newPassword;
-    }
+    }    
 }
